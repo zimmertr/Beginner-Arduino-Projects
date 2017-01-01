@@ -14,5 +14,5 @@ This is a small program that will linearly flash three LEDs. First they will fla
 [Video](https://www.youtube.com/watch?v=Ip-94wlXekE)
 
 ### Schematic:
-![Alt text](https://raw.githubusercontent.com/zimmertr/Left-Right-LED-Flash/master/Left-Right_LED_Flash-Schematic.jpg "Schematic")
+![Alt text](https://raw.githubusercontent.com/zimmertr/Left-Right-LED-Flash-Arduino-Project/master/Left-Right_LED_Flash-Schematic.jpg "Schematic")
 
