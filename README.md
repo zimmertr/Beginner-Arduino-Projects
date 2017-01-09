@@ -10,8 +10,10 @@ This is a small program that will linearly flash three LEDs. First they will fla
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Left-Right-LED-Flash-Arduino-Project/master/Schematic.jpg "Schematic")
 
 ### Requirements:
+```
 1x MEGA 2560  
 1x Breadboard  
 6x Wires  
 3x 220ohm Resistors  
 3x LEDs  
+```
